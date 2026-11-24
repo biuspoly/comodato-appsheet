@@ -1,0 +1,19 @@
+# Credenciais
+.env
+.secrets/
+*.pfx
+token*
+*@gmail.com
+*@*.com
+
+# Sessao R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Saidas geradas
+saida/
+*.pdf
+*.PDF
+*.log
+*_log.txt
